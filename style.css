@@ -26,6 +26,6 @@ width:800px; text-align: center
 #details{
   display:block; 
 }
- div #details {
+  #details div {
   float: left;background: red;text-align: center;width: 25%
 }
