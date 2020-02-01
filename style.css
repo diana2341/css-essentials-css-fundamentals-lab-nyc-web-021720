@@ -27,5 +27,5 @@ p #featured-property{
   display:block; 
 }
 div #details{
-  clear: left
+  float: left;background: red;text-align: center;width: 25%
 }
