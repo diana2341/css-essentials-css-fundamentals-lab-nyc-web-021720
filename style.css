@@ -27,5 +27,5 @@ p #featured-property{
   display:block; 
 }
 div #details{
-  float: left
+  clear: left
 }
